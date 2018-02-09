@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B66C9B0E-9575-446B-A23E-75285781EB10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/NYPizzaStore.cs">
+    <Files>
+      <File FileName="FactoryMethodPattern/Program.cs" Line="2" Column="1" />
+      <File FileName="FactoryMethodPattern/PizzaStore.cs" Line="26" Column="4" />
+      <File FileName="FactoryMethodPattern/Pizza.cs" Line="7" Column="11" />
+      <File FileName="FactoryMethodPattern/NYPizzaStore.cs" Line="10" Column="4" />
+      <File FileName="FactoryMethodPattern/NYCheesePizza.cs" Line="6" Column="16" />
+      <File FileName="FactoryMethodPattern/NYPepperoniPizza.cs" Line="4" Column="37" />
+      <File FileName="FactoryMethodPattern/NYClamPizza.cs" Line="4" Column="32" />
+      <File FileName="FactoryMethodPattern/NYVeggiePizza.cs" Line="4" Column="34" />
+      <File FileName="FactoryMethodPattern/ChicagoCheesePizza.cs" Line="13" Column="3" />
+      <File FileName="FactoryMethodPattern/ChicagoPepperoniPizza.cs" Line="4" Column="42" />
+      <File FileName="FactoryMethodPattern/ChicagoClamPizza.cs" Line="4" Column="37" />
+      <File FileName="FactoryMethodPattern/ChicagoVeggiePizza.cs" Line="4" Column="39" />
+      <File FileName="FactoryMethodPattern/ChicagoPizzaStore.cs" Line="3" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethodPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

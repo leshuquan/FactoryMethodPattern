@@ -1,0 +1,5 @@
+/Users/lsq/vsprojects/DesignPatterns/FactoryMethodPattern/FactoryMethodPattern/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/lsq/vsprojects/DesignPatterns/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/FactoryMethodPattern.pdb
+/Users/lsq/vsprojects/DesignPatterns/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/FactoryMethodPattern.exe
+/Users/lsq/vsprojects/DesignPatterns/FactoryMethodPattern/FactoryMethodPattern/obj/x86/Debug/FactoryMethodPattern.exe
+/Users/lsq/vsprojects/DesignPatterns/FactoryMethodPattern/FactoryMethodPattern/obj/x86/Debug/FactoryMethodPattern.pdb
